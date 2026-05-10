@@ -1,0 +1,11 @@
+ <script type="module" src="https://unpkg.com/deep-chat-dev@latest/dist/deepChat.bundle.js"></script>
+
+
+
+<deep-chat
+
+  directConnection='{"mistral": {"key": "TON_API_KEY_MISTRAL", "model": "mistral-large-latest"}}'
+
+  style="border-radius: 10px; height: 500px;">
+
+</deep-chat>
